@@ -1,0 +1,21 @@
+body {
+  background: lightslategray;
+}
+
+h1 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+  color: Black;
+  font-size: 3rem;
+}
+
+div {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+audio {
+  display: block;
+}
